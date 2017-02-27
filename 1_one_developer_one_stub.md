@@ -24,7 +24,7 @@ Paas -> プラットフォーム構築（アプリケーション公開）にか
 - Clojure
 - Scala
 - Node.js
-- PHP
+- [PHP](https://devcenter.heroku.com/categories/php)
 
 ### Herokuのメリット
 - 拡張機能（アドオンが充実)
