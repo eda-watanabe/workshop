@@ -39,7 +39,7 @@ Dependency Manage for PHP
 ``` 
 & composer -V 
 ```
-- git
+- [git](https://git-scm.com/)
 ```
 $  git --version
 ```
