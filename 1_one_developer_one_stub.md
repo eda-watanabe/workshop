@@ -9,7 +9,7 @@ stubが１つしかないと他の開発者にも影響がでる
 ```
 stubの雛形を共有し各自で自分自身のstub環境を構築することでこの問題を解決する。
 
-## Herokuにstub環境を構築する
+## Herokuにstub環境を構築する with PHP
 ### Herokuとは
 https://www.heroku.com/
 ```
@@ -32,5 +32,22 @@ Paas -> プラットフォーム構築（アプリケーション公開）にか
 - スケールアウト（パフォーマンス向上が簡単）
 
 ### アカウント作成
-### setup
+
+### Setup
+- [comporser](https://getcomposer.org/download/)  
+Dependency Manage for PHP
+``` 
+& composer -V 
+```
+- git
+```
+$  git --version
+```
+- php
+```
+$ php -v
+```
+
 [Heroku CLI](https://devcenter.heroku.com/articles/getting-started-with-php#set-up)をインストールして`heroku`コマンドを使えるようにする
+
+### 
