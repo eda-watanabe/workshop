@@ -1,9 +1,15 @@
-# Slide1
-- sample
-- hoge
-- huga 
+class: center, middle
+
+# Title
 
 ---
-# Slide2
-- sample2
-- huga2
+
+# Agenda
+
+1. Introduction
+2. Deep-dive
+3. ...
+
+---
+
+# Introduction
