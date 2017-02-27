@@ -9,7 +9,7 @@ stubが１つしかないと他の開発者にも影響がでる
 ```
 stubの雛形を共有し各自で自分自身のstub環境を構築することでこの問題を解決する。
 
-## Herokuにサーバーを構築してWebAPIのstub環境を構築する
+## Herokuにstub環境を構築する
 ### Herokuとは
 https://www.heroku.com/
 ```
